@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>edu.eci</groupId>
-    <artifactId>oauth2-prueba</artifactId>
+    <artifactId>oauth2-base</artifactId>
     <version>0.1-beta</version>
     <packaging>war</packaging>
 
-    <name>oauth2-prueba</name>
+    <name>oauth2-base</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
